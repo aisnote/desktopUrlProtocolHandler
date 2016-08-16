@@ -1,0 +1,12 @@
+REGEDIT4
+
+[HKEY_CLASSES_ROOT\cwcsf]
+@="URL:cwcsf Protocol"
+"URL Protocol"=""
+
+[HKEY_CLASSES_ROOT\cwcsf\shell]
+
+[HKEY_CLASSES_ROOT\cwcsf\shell\open]
+
+[HKEY_CLASSES_ROOT\cwcsf\shell\open\command]
+@="\"E:\\myresearch\\04-c++basic\\cwcsf\\Debug\\cwcsf.exe" \"%1\"" 
